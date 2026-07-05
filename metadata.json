@@ -1,0 +1,6 @@
+{
+  "name": "Hurricane Heist",
+  "description": "A stealth survival narrative game on a private island with an incoming hurricane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
